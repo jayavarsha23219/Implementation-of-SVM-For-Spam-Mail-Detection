@@ -25,8 +25,6 @@ STEP 6.End the Program.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: Anubharathi SS
-RegisterNumber:  212223040017
 */
 ```
 ```
